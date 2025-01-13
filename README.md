@@ -39,7 +39,7 @@
   <ol>
     <li><strong>Clone the Repository</strong>
       <pre>
-        <code>git clone https://github.com/yourusername/job-portal.git
+        <code>git clone https://github.com/tousifmohaimen/Job-Portal.git
 cd job-portal</code>
       </pre>
     </li>
